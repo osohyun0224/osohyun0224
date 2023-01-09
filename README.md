@@ -32,11 +32,11 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/JAVA-FCC624?style=flat&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Django-FCC624?style=flat&logo=Django&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-FCC624?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-FCC624?style=flat&logo=C++&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-FCC624?style=flat&logo=Kotlin&logoColor=white" />
+	<img src="https://img.shields.io/badge/JAVA-FCC624?style=flat&logo=Eclipse IDE&logoColor=#2C2255" />
+	<img src="https://img.shields.io/badge/Django-FCC624?style=flat&logo=Django&logoColor=#092E20" />
+	<img src="https://img.shields.io/badge/C-FCC624?style=flat&logo=C&logoColor=#A8B9CC" />
+	<img src="https://img.shields.io/badge/C++-FCC624?style=flat&logo=C++&logoColor=#00599C" />
+	<img src="https://img.shields.io/badge/Kotlin-FCC624?style=flat&logo=Kotlin&logoColor=#7F52FF" />
 </div>
 <br>
 <div align=center>
