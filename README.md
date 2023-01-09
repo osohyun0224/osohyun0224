@@ -7,6 +7,16 @@
 	<p> 배울 것이 많이 남은 주니어 개발자입니다. 개발자로서 매일 성장해 나가겠습니다! </p>
 </div>
 <div align=center>
+	<h2> About Me 😊 </h2>
+</div>
+<div align=left>
+	<h3> Tmi? </h3>
+	<p>👩🏻‍💻 오소현, Oh Sohyun </p>
+	<p>🏫 서울 상일여자고등학교 (2020.02 졸업) 강원 한림대학교 빅데이터학과 (2024.02 조졸예정) </p>
+	<p>🏠 서울시, 성동구 행당동 어딘가 </p>
+	<p>⛳ 학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되기! </p>
+</div>
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
