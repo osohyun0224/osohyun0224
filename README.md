@@ -25,6 +25,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vue.js-181717?style=flat&logo=Vue.js&logoColor=white" />
 </div>
 <br>
 
