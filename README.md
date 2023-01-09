@@ -12,6 +12,8 @@
 <div align=left>
 	<h3> Tmi? </h3>
 	<p>👩🏻‍💻 오소현, Oh Sohyun </p>
+	<p>👀 say_mysso (Instagram) </p>
+	<p>📤 osohyun0224@naver.com & 20205205@hallym.ac.kr & sovely0616@gmail.com </p>
 	<p>🏫 서울 상일여자고등학교 (2020.02 졸업) 강원 한림대학교 빅데이터학과 (2024.02 조졸예정) </p>
 	<p>🏠 서울시, 성동구 행당동 어딘가 </p>
 	<p>⛳ 학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되기! </p>
