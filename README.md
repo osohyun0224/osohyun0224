@@ -2,6 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sohyun's%20Github!&fontSize=90" />	
 </div>
 <div align=center>
+	<p>✨안녕하세요, 프론트엔드 개발자를 꿈꾸는 컴퓨터공학과 대학생입니다. ✨ </p>
+	<p> 한림대학교에서 컴퓨터공학을 공부하고 있고 정보컴퓨터 교직이수도 진행하고 있습니다. 현재 React, Vue.js를 열심히 공부하고 있습니다! </p>
+	<p> 배울 것이 많이 남은 주니어 개발자입니다. 개발자로서 매일 성장해 나가겠습니다! </p>
+</div>
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
