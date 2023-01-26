@@ -11,7 +11,7 @@
 	<h2> About Me 😊 </h2>
 </div>
 <div align=left>
-	<h3> Tmi? </h3>
+	<h2> Tmi? </h2>
 	<p>👩🏻‍💻 오소현, Oh Sohyun </p>
 	<p>👀 @say_mysso <a href="https://www.instagram.com/say_mysso/">
     <img 
@@ -29,7 +29,7 @@
 	<p>⛳ 학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되기! </p>
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -63,12 +63,13 @@
 </div>
 <br>
 <div align=center>
-	<p>🧑🏻‍💼 My InternShip 🧑🏻‍💼</p>
+	<h2>🧑🏻‍💼 My InternShip 🧑🏻‍💼</h2>
 </div>
 <div align=left>
 	<h3> 강남대성학원 편집조교팀장 </h3>
-	<p> 2019.12.21 ~ 현재 </p>
-	<p> 현재 서울 강남역에 위치한 강남대성재수종합학원 본원에서 교재 편집팀에 편집 조교 팀장으로 근무해오고 있습니다. </p>
+	<p> Period : 2019.12.21 ~ 2022.02 & 2022.12 ~ ing </p>
+	<p> 서울 강남역에 위치한 강남대성재수종합학원 본원에서 교재 편집팀에 편집조교팀 <b>2023년도</b> 팀장으로 근무하고 있습니다. 제 회사 메일로는 제 개인적인 문의를 받지 않습니다! </p>
+	<p> 후기? : 첫 입사때 제가 가진 능력에 비해 월등한 회사에 입사해 기쁜마음으로 정말 열심히 일해왔습니다! 다년 간 학생들을 직접 대하며 교직이수를 생각하게 한 경험이었습니다. 인생에 소중한 경험을 하게 해준 연구소 선생님과, 제 사수들에게 이 자리를 빌어 감사하다는 말씀을 드리고 싶습니다,,(하트)</p>
 </div>
 
 <div align=center>
