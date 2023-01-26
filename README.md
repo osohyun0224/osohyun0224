@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<p>✨안녕하세요, 프론트엔드 개발자를 꿈꾸는 컴퓨터공학과 대학생입니다. ✨ </p>
-	<p> 한림대학교에서 컴퓨터공학을 공부하고 있고 정보컴퓨터 교직이수도 진행하고 있습니다. 현재 React, Vue.js를 열심히 공부하고 있습니다! </p>
+	<p> 한림대학교에서 컴퓨터공학을 공부하고 있고 정보컴퓨터 교직이수도 진행하고 있습니다.  React, Vue.js를 열심히 공부하고 있습니다! </p>
 	<p> 배울 것이 많이 남은 주니어 개발자입니다. 개발자로서 매일 성장해 나가겠습니다! </p>
 	<p> 저는 주어진 일에 항상 최선을 다하며, 다른 개발자들과 협업하며 성장해나가는 것을 좋아합니다.  </p>
 </div>
@@ -13,9 +13,18 @@
 <div align=left>
 	<h3> Tmi? </h3>
 	<p>👩🏻‍💻 오소현, Oh Sohyun </p>
-	<p>👀 say_mysso (Instagram) </p>
-	<p>📤 osohyun0224@naver.com & 20205205@hallym.ac.kr & sovely0616@gmail.com </p>
-	<p>🏫 강원 한림대학교 빅데이터학과 (2024.02 조졸예정) </p>
+	<p>👀 @say_mysso <a href="https://www.instagram.com/say_mysso/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/say_mysso/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://velog.io/@osohyun0224">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=vleog&link=https://velog.io/@osohyun0224"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></p>
+	<p>📤 osohyun0224@naver.com </p>
+	<p>🏫 강원 한림대학교 빅데이터학과  </p>
 	<p>🏠 서울시, 성동구 행당동 어딘가 </p>
 	<p>⛳ 학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되기! </p>
 </div>
@@ -31,12 +40,14 @@
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/JAVA-FCC624?style=flat&logo=Eclipse IDE&logoColor=#2C2255" />
-	<img src="https://img.shields.io/badge/Django-FCC624?style=flat&logo=Django&logoColor=#092E20" />
-	<img src="https://img.shields.io/badge/C-FCC624?style=flat&logo=C&logoColor=#A8B9CC" />
-	<img src="https://img.shields.io/badge/C++-FCC624?style=flat&logo=C++&logoColor=#00599C" />
-	<img src="https://img.shields.io/badge/Kotlin-FCC624?style=flat&logo=Kotlin&logoColor=#7F52FF" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+	
 </div>
 <br>
 <div align=center>
@@ -54,10 +65,10 @@
 <div align=center>
 	<p>🧑🏻‍💼 My InternShip 🧑🏻‍💼</p>
 </div>
-<div align=center>
+<div align=left>
 	<h3> 강남대성학원 편집조교팀장 </h3>
 	<p> 2019.12.21 ~ 현재 </p>
-	<p> 현재 서울 강남역에 위치한 강남대성재수종합학원 본원에서 교재 편집팀에 편집조교 팀장으로 근무해오고 있습니다. </p>
+	<p> 현재 서울 강남역에 위치한 강남대성재수종합학원 본원에서 교재 편집팀에 편집 조교 팀장으로 근무해오고 있습니다. </p>
 </div>
 
 <div align=center>
@@ -83,3 +94,5 @@
 	<p> 7️⃣ 2023 멋쟁이사자처럼 IN 한림대 11기 프론트엔드 팀장 </p>
 	<p> 8️⃣ [Do it!  리엑트 모던 웹 개발 with 타임스크립트] 서평단 </p>
 </div>
+
+![Sohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=radical)
