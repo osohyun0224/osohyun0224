@@ -8,7 +8,7 @@
 	<p> 저는 주어진 일에 항상 최선을 다하며, 다른 개발자들과 협업하며 성장해나가는 것을 좋아합니다.  </p>
 </div>
 <div align=center>
-	<h2> About Me 😊 </h2>
+	<h1> About Me 😊 </h1>
 </div>
 <div align=left>
 	<h2> Tmi? </h2>
@@ -73,7 +73,7 @@
 </div>
 
 <div align=center>
-	<p>👩🏻‍🏫 Mentoring 👩🏻‍🏫</p>
+	<h2>👩🏻‍🏫 Mentoring 👩🏻‍🏫</h2>
 </div>
 <div align=left>
 	<p> 1️⃣ 2022-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 JAVA 멘토 </p>
@@ -83,7 +83,7 @@
 	<p> 5️⃣ 2023년 멋쟁이 사자처럼 in 한림대학교 프론트엔드 팀장 </p>
 </div>
 <div align=center>
-	<p>🙋🏻‍♀️ 우당탕탕 대내외활동 🙋🏻‍♀️ </p>
+	<h2>🙋🏻‍♀️ 우당탕탕 대내외활동 🙋🏻‍♀️ </h2>
 </div>
 <div align=left>
 	<p> 1️⃣ 2021 한림대학교 제 3대 소프트웨어융합대학 학생회 WUSM 사무부장 </p>
