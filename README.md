@@ -14,7 +14,7 @@
 <div align=left>
 	<h2> 어쩌면 TMI? </h2>
 	<p>👩🏻‍💻 오소현, Oh Sohyun </p>
-	<p>👀 @verbale._.souniv (Original) <a href="https://www.instagram.com/verbale._.souniv/">
+	<p>👀 @verbale._.souniv (Univ) <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
