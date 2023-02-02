@@ -14,9 +14,9 @@
 <div align=left>
 	<h2> 어쩌면 TMI? </h2>
 	<p>👩🏻‍💻 오소현, Oh Sohyun </p>
-	<p>👀 @say_mysso (Original) <a href="https://www.instagram.com/say_mysso/">
+	<p>👀 @verbale._.souniv (Original) <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/say_mysso/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@osohyun0224">
