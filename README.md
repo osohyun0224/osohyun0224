@@ -30,7 +30,7 @@
 </div>
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Platforms & Languages & FrameWorks✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -47,6 +47,8 @@
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vue.js-181717?style=flat&logo=Vue.js&logoColor=white" />
 	
 </div>
 <br>
@@ -57,9 +59,8 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Vue.js-181717?style=flat&logo=Vue.js&logoColor=white" />
+	
 </div>
 <br>
 <div align=center>
@@ -81,7 +82,8 @@
 	<h4> 3️⃣ 2022-2학기 한림대학교 상생러닝멘토링 디딤돌 <b>빅데이터학과</b> 전담멘토 </h4>
 	<h4> 4️⃣ 2022년 1년간 청소년자립지원관 청소년 교과학습멘토링 도래꿈 과학 멘토 </h4>
 	<h4> 5️⃣ 2023년 네이버 커넥트 산하 스쿨혁명 1784 소프트웨어야 놀자! 대학생 멘토 동경한 동아리 팀장(민락중,용마초) </h4>
-	<h4> 6️⃣ 2023년 멋쟁이 사자처럼 한림대학교 프론트엔드 팀장 </h4>
+	<h4> 6️⃣ 2023년 멋쟁이 사자처럼 at 한림대학교 프로젝트 빌더 , 프론트엔드 팀장 </h4>
+	<h4> 7️⃣ 2023-1학기 한림대학교 소프트웨어중심대학사업단 SW교과목 멘토 프로그램 멘토 </h4>
 	
 </div>
 <div align=center>
@@ -93,8 +95,8 @@
 	<p> 3️⃣ 2021 한림대학교 소프트웨어융합대학 창업동아리 HS 부원 </p>
 	<p> 4️⃣ 2022 한림대학교 제 1대 정보과학대학 학생회 A:BLE 홍보부장 </p>
 	<p> 5️⃣ 2022 한림대학교 SW중심대학산하 SW봉사단 부원 </p>
-	<p> 6️⃣ 2023 한림대학교 SW중심대학산하 창업동아리 COU 프론트엔드 개발자 </p>
-	<p> 7️⃣ 2023 멋쟁이사자처럼 한림대학교 11기 프론트엔드 팀장 </p>
+	<p> 6️⃣ 2023 한림대학교 SW중심대학산하 창업동아리 온라인 코딩 플랫폼 COU 프론트엔드 개발자 </p>
+	<p> 7️⃣ 2023 멋쟁이사자처럼 한림대학교 11기 프로젝트 빌더 , 프론트엔드 팀장 </p>
 	<p> 8️⃣ [Do it!  리엑트 모던 웹 개발 with 타임스크립트] 서평단 </p>
 </div>
 
