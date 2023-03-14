@@ -52,6 +52,7 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=REDUX&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vue.js-181717?style=flat&logo=Vue.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
