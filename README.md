@@ -108,6 +108,6 @@
 </div>
 
 ![Sohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sominu0616)](https://solved.ac/sominu0616)
+
 
 
