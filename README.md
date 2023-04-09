@@ -3,8 +3,8 @@
 ## 👩🏻‍💻 About Me
 
 ### Junior Web FrontEnd Developer
-* 웹 프론트엔드 개발자를 꿈꾸는 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
-* 다른 개발자들과 함께 협업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
+* 웹 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
+* 다른 개발자들과 업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
 * 현재는 React, Vue.js를 열심히 공부하며 프론트엔드 개발자의 기술 스택을 하루하루 열심히 쌓아가고 있습니다.
 
 ⛳ <b>학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
@@ -13,15 +13,16 @@
 
 🏠 Local: Haengdang-dong, Seongdong-gu, Seoul, Republic of Korea
 
-📓 Blog :<a href="https://velog.io/@osohyun0224">
+📓 Blog : @osohyun0224
+<a href="https://velog.io/@osohyun0224">
     <img 
-        src="http://img.shields.io/badge/-Sohyun's%20Velog-655ced?style=flat&logo=vleog&link=https://velog.io/@osohyun0224"
+        src="http://img.shields.io/badge/-Sohyun's%20Velog-20C997?style=flat&logo=vleog&link=https://velog.io/@osohyun0224"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 👸🏻 Instagram : @verbale._.souniv (Univ Account) <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
 
 <div align=center>
