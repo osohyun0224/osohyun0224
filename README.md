@@ -1,30 +1,29 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sohyun's%20Github!&fontSize=90" />	
-</div>
-<div align=center>
-	<p> ✨ 안녕하세요, 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공 및 정보,컴퓨터 교과 교직이수도 공부하는 대학생입니다. ✨ </p>
-	<p> 저는 타인과 함께 협업하며 성장하는 것을 좋아하는 성격을 가지고 있습니다. </p>
-	<p> 따라서 현재, 다른 파트 개발자들과 여러 프로젝트를 진행하며 공동체와 저 자신을 함께 성장시키고 있습니다.</p>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sohyun's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Frontend%20Developer&descAlignY=51&descAlign=62)
 
+## 👩🏻‍💻 About Me
 
-<div align=left>
-	<h2> About Me 😊 </h2> 
-	<p> 저는 현재 React, Vue.js를 열심히 공부하며 프로젝트를 진행하고 있는 프론트엔드 주니어 개발자입니다.</p>
-	<p>👀 @verbale._.souniv (Univ Account) <a href="https://www.instagram.com/verbale._.souniv/">
+### Junior Web FrontEnd Developer
+* 웹 프론트엔드 개발자를 꿈꾸는 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
+* 다른 개발자들과 함께 협업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
+* 현재는 React, Vue.js를 열심히 공부하며 프론트엔드 개발자의 기술 스택을 하루하루 열심히 쌓아가고 있습니다.
+
+⛳ <b>학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
+
+📤 E-Mail : osohyun0224@naver.com
+
+🏠 Local: Haengdang-dong, Seongdong-gu, Seoul, Republic of Korea
+
+📓 Blog :<a href="https://velog.io/@osohyun0224">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
+        src="http://img.shields.io/badge/-Sohyun's%20Velog-655ced?style=flat&logo=vleog&link=https://velog.io/@osohyun0224"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@osohyun0224">
+
+👸🏻 Instagram : @verbale._.souniv (Univ Account) <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=vleog&link=https://velog.io/@osohyun0224"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
-	<p>📤 osohyun0224@naver.com </p>
-	<p>🏠 서울시, 성동구 행당동 어딘가 </p>
-	<p>⛳ 학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되겠습니다. </p>
-</div>
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
+
 <div align=center>
 	<h2>📚 My Tech Stack 📚</h2>
 	<p>✨ Platforms & Languages ✨</p>
@@ -87,7 +86,7 @@
 	<h4> 1️⃣ 2021-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 C언어 멘토 </h4>
 	<h4> 2️⃣ 2022-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 JAVA 멘토 </h4>
 	<h4> 3️⃣ 2022-2학기 한림대학교 상생러닝멘토링 디딤돌 <b>빅데이터학과</b> 전담멘토 </h4>
-	<h4> 4️⃣ 2022년 1년간 청소년자립지원관 청소년 교과학습멘토링 도래꿈 과학 멘토 </h4>
+	<h4> 4️⃣ 2022년 1년간 한림대학교 산하 청소년자립지원관 교과학습멘토링 도래꿈 과학 멘토 </h4>
 	<h4> 5️⃣ 2023년 네이버 커넥트 산하 스쿨혁명 1784 소프트웨어야 놀자! 대학생 멘토 동경한 동아리 팀장(at 민락중,용마초) </h4>
 	<h4> 6️⃣ 2023년 멋쟁이 사자처럼 at 한림대학교 For 비기너 프론트엔드 팀 운영진</h4>
 	<h4> 7️⃣ 2023-1학기 한림대학교 소프트웨어중심대학사업단 SW교과목 멘토 프로그램 멘토 </h4>
@@ -104,9 +103,13 @@
 	<p> 5️⃣ 2022 한림대학교 SW중심대학산하 SW봉사단 부원 </p>
 	<p> 6️⃣ 2023 한림대학교 SW중심대학산하 창업동아리 온라인 코딩 플랫폼 COU 프론트엔드 개발자 </p>
 	<p> 7️⃣ 2023 멋쟁이사자처럼 한림대학교 11기 For 프로젝트 빌더 운영진, 프론트엔드 팀장 </p>
-	<p> 8️⃣ [Do it!  리엑트 모던 웹 개발 with 타임스크립트] 서평단 </p>
+	<p> 8️⃣ [Do it! 리엑트 모던 웹 개발 with 타임스크립트] 서평단 </p>
 </div>
-
+	
+<div align=center>
+	<h2>😎 My Own Github Stats 😎</h2>
+</div>
+	
 ![Sohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=dracula)
 
 
