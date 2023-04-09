@@ -11,7 +11,7 @@
 
 📤 E-Mail : osohyun0224@naver.com
 
-🏠 Local: Haengdang-dong, Seongdong-gu, Seoul, Republic of Korea
+🏠 Local: Seongdong-gu, Seoul, Republic of Korea
 
 📓 Tech-Blog : @osohyun0224
 <a href="https://velog.io/@osohyun0224">
