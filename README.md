@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sohyun's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Frontend%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Sohyun's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web%20Frontend%20Developer&descAlignY=51&descAlign=62)
 
 ## 👩🏻‍💻 About Me
 
