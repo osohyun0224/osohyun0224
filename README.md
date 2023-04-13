@@ -3,9 +3,9 @@
 ## 👩🏻‍💻 About Me
 
 ### Junior Web FrontEnd Developer
-* 웹 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
-* 다른 개발자들과 협업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
-* 현재는 React, Vue.js를 열심히 공부하며 프론트엔드 개발자의 기술 스택을 하루하루 열심히 쌓아가고 있습니다.
+- 웹 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
+- 다른 개발자들과 협업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
+- 현재는 React, Vue.js를 열심히 공부하며 프론트엔드 개발자의 기술 스택을 하루하루 열심히 쌓아가고 있습니다.
 
 ⛳ <b>학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
 
@@ -20,7 +20,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-👸🏻 Instagram : @verbale._.souniv (Univ Account) <a href="https://www.instagram.com/verbale._.souniv/">
+👸🏻 Instagram : @verbale._.souniv <a href="https://www.instagram.com/verbale._.souniv/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
@@ -39,9 +39,13 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />	
+	<br>
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -72,11 +76,11 @@
 	<h2>🧑🏻‍💼 My InternShip 🧑🏻‍💼</h2>
 </div>
 <div align=center>
-	<h3> 강남대성학원 편집조교팀장 </h3>
+	<h3> 강남D재수종합학원 편집조교팀장 </h3>
 	<p> Period : 2019.12.21 ~ 2023.02.28 (End)</p>
 <div align=left>
-	<p> 서울 강남역에 위치한 강남대성재수종합학원 본원에서 교재 편집팀에 편집조교팀 팀장까지 근무하고 이젠 찐 퇴사.</p>
-	<p> 현역 수능 끝난 후부터 3년 정도 휴직, 재택근무, 현장출근을 번갈아가면서 근무했습니다. 나를 필요로 하는 곳에 도움이 된다는 것에 감사했고, 이제는 3년만에 퇴사했습니다. 그동안 강대에서 만난 모든 연구소 쌤들, 제 사수들, 담당 학생들, 부족한 저를 사수로 두었던 신입 조교들께 진심으로 감사드립니다. </p>
+	<p> 서울 강남역에 위치한 강남D재수종합학원 본원에서 교재 편집팀의 편집조교팀 팀장까지 근무하고 이젠 찐 퇴사.</p>
+	<p> 현역 수능 끝난 후부터 3년 정도 휴직, 재택근무, 현장출근을 번갈아가면서 근무했습니다. 저를 필요로 하는 곳에 도움이 된다는 것에 감사했고, 이제는 3년 만에 퇴사했습니다. 그동안 강대에서 만난 모든 연구소 쌤들, 제 사수들, 담당 학생들, 부족한 저를 사수로 두었던 신입 조교들께 진심으로 감사드립니다. </p>
 </div>
 </div>
 
@@ -84,13 +88,13 @@
 	<h2>👩🏻‍🏫 Mentoring 👩🏻‍🏫</h2>
 </div>
 <div align=left>
-	<h4> 1️⃣ 2021-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 C언어 멘토 </h4>
-	<h4> 2️⃣ 2022-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 JAVA 멘토 </h4>
-	<h4> 3️⃣ 2022-2학기 한림대학교 상생러닝멘토링 디딤돌 <b>빅데이터학과</b> 전담멘토 </h4>
-	<h4> 4️⃣ 2022년 한림청소년자립지원관 교과학습멘토링 도래꿈 과학 멘토 </h4>
-	<h4> 5️⃣ 2023년 네이버 커넥트 스쿨혁명 1784 소프트웨어야 놀자! 대학생 멘토 동경한 동아리 팀장(at 의정부 민락중 & 서울 용마초) </h4>
-	<h4> 6️⃣ 2023년 멋쟁이 사자처럼 at 한림대학교 For 비기너 프론트엔드 팀 운영진</h4>
-	<h4> 7️⃣ 2023-1학기 한림대학교 소프트웨어중심대학사업단 SW교과목 프로그램 멘토 </h4>
+	<p> 1️⃣ 2021-2학기 한림대학교 전공멘토링 C언어 멘토 </p>
+	<p> 2️⃣ 2022-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 JAVA 멘토 </p>
+	<p> 3️⃣ 2022-2학기 한림대학교 상생러닝멘토링 디딤돌 <b>빅데이터학과</b> 멘토 </p>
+	<p> 4️⃣ 2022년 한림청소년자립지원관 교과학습멘토링 도래꿈 과학 멘토 </p>
+	<p> 5️⃣ 2023년 네이버 커넥트 스쿨혁명 1784 소프트웨어야 놀자! 대학생 멘토 동경한 동아리 팀장(at 의정부 민락중 & 서울 용마초) </p>
+	<p> 6️⃣ 2023년 멋쟁이사자처럼 at 한림대학교 For 비기너 프론트엔드 팀 운영진 </p>
+	<p> 7️⃣ 2023-1학기 한림대학교 소프트웨어중심대학사업단 SW교과목 프로그램 멘토 </p>
 	
 </div>
 <div align=center>
@@ -98,12 +102,12 @@
 </div>
 <div align=left>
 	<p> 1️⃣ 2021 한림대학교 제 3대 소프트웨어융합대학 학생회 WUSM 사무부장 </p>
-	<p> 2️⃣ 2021 ~ 현재 한림대학교 소프트웨어융합학부 학술동아리 C:애랑 APP 라떼팀 부원 </p>
+	<p> 2️⃣ 2021 ~ NOW 한림대학교 소프트웨어융합학부 학술동아리 C:애랑 APP Latte팀(21-22) / WEB Tag팀(23) 부원 </p>
 	<p> 3️⃣ 2022 한림대학교 제 1대 정보과학대학 학생회 A:BLE 홍보부장 </p>
 	<p> 4️⃣ 2022 Codeit React 기반 프론트엔드 개발자 양성 주니어 개발자 </p>
 	<p> 5️⃣ 2022 한림대학교 SW중심대학산하 SW봉사단 부원 </p>
 	<p> 6️⃣ 2023 한림대학교 SW중심대학산하 창업동아리 온라인 코딩 플랫폼 COU 프론트엔드 개발자 </p>
-	<p> 7️⃣ 2023 멋쟁이사자처럼 한림대학교 11기 For 빌더 운영진, 프론트엔드 팀장 </p>
+	<p> 7️⃣ 2023 멋쟁이사자처럼 at 한림대학교 11기 For 빌더 운영진, 프론트엔드 팀장 </p>
 	<p> 8️⃣ [Do it! 리엑트 모던 웹 개발 with 타입스크립트] 서평단 </p>
 </div>
 	
