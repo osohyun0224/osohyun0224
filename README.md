@@ -3,9 +3,11 @@
 ## 👩🏻‍💻 About Me
 
 ### Junior Web FrontEnd Developer
-- 웹 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
-- 다른 개발자들과 협업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
-- 현재는 React, Vue.js를 열심히 공부하며 프론트엔드 개발자의 기술 스택을 하루하루 열심히 쌓아가고 있습니다.
+☑️ 웹 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. 👩🏻‍💻 👩🏻‍🏫
+
+☑️ 다른 개발자들과 협업하며 공부하는 것을 좋아해 현재는 여러 프로젝트를 진행하며 공동체와 저 자신을 성장시키고 있습니다.
+
+☑️ 현재는 React, Vue.js를 열심히 공부하며 프론트엔드 개발자의 기술 스택을 하루하루 열심히 쌓아가고 있습니다.
 
 ⛳ <b>학생들에게 최상의 디지털 학습환경을 제공하는 프론트엔드 개발자가 되겠습니다.</b>
 
@@ -36,12 +38,6 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />	
-	<br>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
@@ -52,8 +48,9 @@
 	<p>🖥️ FrameWorks & Library 🖥️</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/REACT-F8DC75?style=flat&logo=ReactQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=REDUX&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white" />
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
@@ -64,12 +61,15 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=REDUX&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🫡 Now I'm Studying... 🫡</p>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -79,8 +79,8 @@
 	<h3> 강남D재수종합학원 편집조교팀장 </h3>
 	<p> Period : 2019.12.21 ~ 2023.02.28 (End)</p>
 <div align=left>
-	<p> 서울 강남역에 위치한 강남D재수종합학원 본원에서 교재 편집팀의 편집조교팀 팀장까지 근무하고 이젠 찐 퇴사.</p>
-	<p> 현역 수능 끝난 후부터 3년 정도 휴직, 재택근무, 현장출근을 번갈아가면서 근무했습니다. 저를 필요로 하는 곳에 도움이 된다는 것에 감사했고, 이제는 3년 만에 퇴사했습니다. 그동안 강대에서 만난 모든 연구소 쌤들, 제 사수들, 담당 학생들, 부족한 저를 사수로 두었던 신입 조교들께 진심으로 감사드립니다. </p>
+	<p> 서울 강남역에 위치한 강남D재수종합학원 본원에서 교재 편집팀의 편집조교팀 팀장까지 근무하고 이제는 퇴사했습니다!</p>
+	<p> 현역 수능 끝난 후부터 3년 정도 휴직, 재택근무, 현장출근을 번갈아가면서 근무해왔습니다. 강대에서 일하며 인생에서 많은 것을 경험했고 교직이수를 꿈꾸게 해주었던 소중한 시간들이었습니다. 그동안 강대에서 만난 모든 연구소 쌤들, 제 사수 쌤들, 담당 학생들, 부족한 저를 사수로 두었던 신입 조교쌤들께 진심으로 감사드립니다. </p>
 </div>
 </div>
 
@@ -91,14 +91,14 @@
 	<p> 1️⃣ 2021-2학기 한림대학교 전공멘토링 C언어 멘토 </p>
 	<p> 2️⃣ 2022-2학기 한림대학교 소프트웨어중심대학사업단 SW전공멘토링 JAVA 멘토 </p>
 	<p> 3️⃣ 2022-2학기 한림대학교 상생러닝멘토링 디딤돌 <b>빅데이터학과</b> 멘토 </p>
-	<p> 4️⃣ 2022년 한림청소년자립지원관 교과학습멘토링 도래꿈 과학 멘토 </p>
+	<p> 4️⃣ 2022년 한림청소년자립지원관 청소년 교과학습멘토링 도래꿈 과학 멘토 </p>
 	<p> 5️⃣ 2023년 네이버 커넥트 스쿨혁명 1784 소프트웨어야 놀자! 대학생 멘토 동경한 동아리 팀장(at 의정부 민락중 & 서울 용마초) </p>
 	<p> 6️⃣ 2023년 멋쟁이사자처럼 at 한림대학교 For 비기너 프론트엔드 팀 운영진 </p>
-	<p> 7️⃣ 2023-1학기 한림대학교 소프트웨어중심대학사업단 SW교과목 프로그램 멘토 </p>
+	<p> 7️⃣ 2023-1학기 한림대학교 소프트웨어중심대학사업단 SW교과목 [컴퓨팅사고-AI기초] 멘토 </p>
 	
 </div>
 <div align=center>
-	<h2>🙋🏻‍♀️ 우당탕탕 대내외활동 🙋🏻‍♀️ </h2>
+	<h2>🙋🏻‍♀️ Internal & External Activities 🙋🏻‍♀️ </h2>
 </div>
 <div align=left>
 	<p> 1️⃣ 2021 한림대학교 제 3대 소프트웨어융합대학 학생회 WUSM 사무부장 </p>
