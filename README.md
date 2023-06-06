@@ -26,7 +26,9 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/verbale._.souniv/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
-
+	
+<span><img width='600' src="https://github-profile-trophy.vercel.app/?username=osohyun0224" /></span>
+	
 <div align=center>
 	<h2>📚 My Tech Stack 📚</h2>
 	<p>✨ Platforms & Languages ✨</p>
