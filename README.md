@@ -19,7 +19,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
 [![Velog Badge](https://img.shields.io/badge/Velog-osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
-[![Melon Badge](https://img.shields.io/badge/Sohyun's_Melon-playlist-green?style=flat-square&logo=Melon)](https://www.melon.com/mymusic/playlist/mymusicplaylistview_inform.htm?plylstSeq=507959277)
+[![Melon Badge](https://img.shields.io/badge/Melon-playlist-Brightgreen?style=flat-square&logo=applemusic)](https://www.melon.com/mymusic/playlist/mymusicplaylistview_inform.htm?plylstSeq=507959277)
 
 
 👩🏻‍💻 상단 제 노션에 저에 대한 자세한 포트폴리오를 기록해두었습니다.
