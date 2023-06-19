@@ -2,7 +2,7 @@
 
 협업하는 과정 속에서 성장하는 것을 좋아하는 개발자 오소현입니다.
 
-### **🙋🏻‍♀️ ABOUT ME**
+## **🙋🏻‍♀️ ABOUT ME**
 
 **Junior Web FrontEnd Developer**
 
