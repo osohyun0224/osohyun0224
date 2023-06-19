@@ -1,12 +1,12 @@
 ## Hello, Welcome to my Github !
 
-협업하는 과정 속에서 성장하는 것을 좋아하는 개발자 오소현입니다.
+협업하는 과정에서 성장하는 것을 좋아하는 개발자 오소현입니다.
 
 ## **🙋🏻‍♀️ ABOUT ME**
 
 **Junior Web FrontEnd Developer**
 
-👩🏻 **오소현, Oh So Hyun** 
+👩🏻**Name | 오소현, Oh So Hyun** 
 
 📧 **Email | osohyun0224@naver.com**
 
@@ -25,18 +25,16 @@
 👩🏻‍💻 상단 제 노션에 저에 대한 자세한 포트폴리오를 기록해두었습니다.
 	
 	
-
-## My Tech Stack 
-
-<div align="left">
+<div align="center">
+<h2>📚 Tech Stack 📚 </h2> 
+</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
 	<br><br>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 	<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=REDUX&logoColor=black" />
-	<br><br>
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
  	<br><br>
@@ -49,8 +47,8 @@
  	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 </div>
 
-
-##  My Github Stats
-
+## 
+<div align = "center"> 
 	
 ![Sohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=dracula) 
+</div>
