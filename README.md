@@ -2,13 +2,26 @@
 
 협업하는 과정 속에서 성장하는 것을 좋아하는 개발자 오소현입니다.
 
+### **🙋🏻‍♀️ ABOUT ME**
+
+**Junior Web FrontEnd Developer**
+
+👩🏻 **오소현, Oh So Hyun** 
+
+📧 **Email | osohyun0224@naver.com**
+
+🌍 **Local | Seongdong-gu, Seoul, Republic of Korea**
+
+🏫 **School | Hallym Univ, Computer Engineering (20.03 - )**
+
+👩🏻‍🏫 **Teach | Computer and Infomation Teach course (22.01 - )**
+
 [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
 [![Velog Badge](https://img.shields.io/badge/Velog-osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
 
 
-👩🏻‍💻 웹 프론트엔드 개발자를 꿈꾸며 컴퓨터공학 전공, 정보컴퓨터 교직이수를 하고 있는 3학년 2학기 재학생입니다. <br>
-상단 제 노션에 저에 대한 자세한 포트폴리오를 기록해두었습니다.
+👩🏻‍💻 상단 제 노션에 저에 대한 자세한 포트폴리오를 기록해두었습니다.
 	
 	
 
