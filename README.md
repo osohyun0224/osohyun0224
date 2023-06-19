@@ -14,7 +14,7 @@
 
 🏫 **School | Hallym Univ, Computer Engineering (20.03 - )**
 
-👩🏻‍🏫 **Teach | Computer and Infomation Teach course (22.01 - )**
+👩🏻‍🏫 **Teach | Computer and Infomation Teach course Secondary School Teacher(GradeⅡ) (22.01 - )**
 
 [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
 [![Velog Badge](https://img.shields.io/badge/Velog-osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
