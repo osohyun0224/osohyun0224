@@ -1,6 +1,7 @@
 ## Hello, Welcome to my Github !
 
-협업하는 과정에서 성장하는 것을 좋아하는 개발자 오소현입니다.
+협업하는 과정에서 성장하는 것을 좋아하는 개발자 오소현입니다.<br/><br/>
+[![Newest Post Card](https://velog-readme-stats.vercel.app/api?name=osohyun0224)](https://velog.io/@osohyun0224/)
 
 ## **🙋🏻‍♀️ ABOUT ME**
 
