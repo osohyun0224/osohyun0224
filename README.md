@@ -1,7 +1,7 @@
 ## Hello, Welcome to my Github !
 
 협업하는 과정에서 성장하는 것을 좋아하는 개발자 오소현입니다.<br/><br/>
-[![Newest Post Card](https://velog-readme-stats.vercel.app/api?name=osohyun0224)](https://velog.io/@osohyun0224/)
+[![Newest Post Card](https://velog-readme-stats.vercel.app/api?name=osohyun0224)](https://velog.io/@osohyun0224/2023-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%B0%B8%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9B%84%EA%B8%B0Feat.-%EC%9A%B0%EC%88%98%EC%83%81)
 
 ## **🙋🏻‍♀️ ABOUT ME**
 
@@ -33,15 +33,21 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 	<br><br>
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+	<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
+	<img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+	<br><br>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 	<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=REDUX&logoColor=black" />
+	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=black" />
+	<br><br>
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
  	<br><br>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
-	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 	<br><br>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
