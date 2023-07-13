@@ -2,7 +2,7 @@
 
 
 	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osohyun0224&slug=2023-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%B0%B8%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9B%84%EA%B8%B0Feat.-%EC%9A%B0%EC%88%98%EC%83%81)](https://velog.io/@osohyun0224/2023-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%B0%B8%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9B%84%EA%B8%B0Feat.-%EC%9A%B0%EC%88%98%EC%83%81)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osohyun0224&slug=%EC%A7%80%EB%82%9C-%EB%B0%98%EB%85%84%EA%B0%84-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D)](https://velog.io/@osohyun0224/%EC%A7%80%EB%82%9C-%EB%B0%98%EB%85%84%EA%B0%84-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osohyun0224&slug=2023-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%B0%B8%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9B%84%EA%B8%B0Feat.-%EC%9A%B0%EC%88%98%EC%83%81)](https://velog.io/@osohyun0224/2023-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%B0%B8%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9B%84%EA%B8%B0Feat.-%EC%9A%B0%EC%88%98%EC%83%81)
 
 ## **🙋🏻‍♀️ ABOUT ME**
 
