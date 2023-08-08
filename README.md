@@ -35,3 +35,8 @@ export default App;
     <img src="https://skillicons.dev/icons?i=figma,ps&perline=7"/>  </p>
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
 </div>
+<div align="center">
+	
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osohyun0224&color=dark&slug=개발자의-생일-이벤트-스케일-미쳤다)](https://github.com/osohyun0224/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osohyun0224&color=dark&slug=2023-SW중심대학-공동해커톤-참가-개발자-후기Feat.-우수상)](https://github.com/osohyun0224/velog-readme-stats)
+</div>
