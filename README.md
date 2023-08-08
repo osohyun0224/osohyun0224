@@ -1,8 +1,25 @@
+```typescript
+import React from 'react';
+
+const App: React.FC = () => {
+  return (
+    <div className="App">
+        <h1>Sohyun Oh</h1>
+        <ul>
+          <li>I am a web front-end developer who grows day by day through collaboration and communication.</li>
+          <li>I strive to share valuable knowledge, aiming for a development culture where we all grow together.</li>
+          <li>I reside in Seongdong-gu, Seoul, and majoring in Computer Engineering at Hallym University.</li>
+          <li>I have detailed my portfolio further in Notion below. </li>
+        </ul>
+    </div>
+  );
+}
+
+export default App;
+
+```
 <div align="center">
 	
-<img src="https://github.com/osohyun0224/osohyun0224/assets/53892427/6e39aa63-4fd2-4fd7-a1e3-af3f70e8e43c" />	
-<br/>
-
 [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
 [![Velog Badge](https://img.shields.io/badge/Velog-osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
