@@ -1,6 +1,6 @@
 <div align="center">
 	
-<img src="https://github.com/osohyun0224/osohyun0224/assets/53892427/95e51fbc-6600-4923-8583-bc6f3ecc1a2f" width="80%" />	
+<img src="https://github.com/osohyun0224/osohyun0224/assets/53892427/95e51fbc-6600-4923-8583-bc6f3ecc1a2f" />	
 <br/>
 
 [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
