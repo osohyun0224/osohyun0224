@@ -9,9 +9,17 @@
 <h2>📚 Tech Stack </h2> 
 <div align="center">
   <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
-    <img src="https://skillicons.dev/icons?i=js,ts&perline="/>
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue&perline="/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,vite&perline="/>
+    <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
+    <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
+    <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/react-icon.svg">
+     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img alt= "icon" wide="60" height="60" src ="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+&nbsp
+&nbsp
+&nbsp
+<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/redux-icon.svg">
+  </p> 
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,firebase,vite&perline="/>
     <img src="https://skillicons.dev/icons?i=sass,styledcomponents,tailwindcss&perline="/>
     <img src="https://skillicons.dev/icons?i=figma,ps&perline=7"/>  </p>
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
