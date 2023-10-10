@@ -9,15 +9,11 @@
 <h2>📚 Tech Stack </h2> 
 <div align="center">
   <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
-    <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
-    <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
-    <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/react-icon.svg">
-     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <img alt= "icon" wide="60" height="60" src ="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
-&nbsp
-&nbsp
-&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/redux-icon.svg">
+    <img alt= "icon" wide="100" height="100" src ="https://techstack-generator.vercel.app/js-icon.svg">
+    <img alt= "icon" wide="100" height="100" src ="https://techstack-generator.vercel.app/ts-icon.svg">
+    <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/react-icon.svg">
+    <img alt= "icon" wide="80" height="80" src ="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+    <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/redux-icon.svg">
   </p> 
     <img src="https://skillicons.dev/icons?i=vue,nodejs,firebase,vite&perline="/>
     <img src="https://skillicons.dev/icons?i=sass,styledcomponents,tailwindcss&perline="/>
