@@ -20,4 +20,3 @@
     <img src="https://skillicons.dev/icons?i=figma,ps&perline=7"/>  </p>
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
 </div>
-
