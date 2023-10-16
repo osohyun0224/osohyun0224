@@ -1,10 +1,10 @@
 <div align="center">
 	<h2>🖐🏻 About Me </h2> 
 
-[![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
+[![Notion Badge](https://img.shields.io/badge/Notion-My%20Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
 [![Velog Badge](https://img.shields.io/badge/Velog-@osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
-[![Melon Badge](https://img.shields.io/badge/Melon-playlist-Brightgreen?style=flat-square&logo=applemusic)](https://www.melon.com/mymusic/playlist/mymusicplaylistview_inform.htm?plylstSeq=507959277)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_%20-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
+[![Melon Badge](https://img.shields.io/badge/Melon-Study%20with%20Me-Brightgreen?style=flat-square&logo=applemusic)](http://bit.ly/study-with-deuni)
 <br/>
 <h2>📚 Tech Stack </h2> 
 <div align="center">
