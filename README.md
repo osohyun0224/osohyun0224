@@ -16,6 +16,9 @@
 
 <h2>🏆 Awards </h2> 
 
+<details>
+<summary>토글을 눌러보세요 :)</summary>
+	
 | Award 	| Date                         	     | Contest                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
 | 🥇 켈러상(1위) | 2023.06.20 | 2023 한림대학교 <br/> 우수 교생실습 경진대회 | [2023 정보컴퓨터 교생실습 수업 복습장 웹앱](https://github.com/osohyun0224/React_Firebase_StudyNote_withMinRak) |
@@ -27,6 +30,7 @@
 | 🥉 은상(3위) | 2023.11.21 | 2023 한림대학교 정보과학대학 학술제 | [제대로 기록하는 내 친구를 위한 현명한 소비, <br/> Amica! 🐶](https://github.com/Likelion-MainHackaton-2team/Amica_Frontend) |
 | 🏆 **대상<br/>(1위, 총장상)** | 2023.12.08 | 2023-2 한림대학교 SW캡스톤디자인 <br/>  경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 </div>
+</details>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
 </div>
