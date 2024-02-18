@@ -6,13 +6,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_%20-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
 [![Melon Badge](https://img.shields.io/badge/Melon-Study%20with%20Me-Brightgreen?style=flat-square&logo=applemusic)](http://bit.ly/study-with-deuni)
 <br/>
-<h2>📚 Tech Stack </h2> 
+<h2>📚 Main Tech Stack </h2> 
   <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
     <img src="https://skillicons.dev/icons?i=js,ts&perline="/>
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue&perline="/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,vite&perline="/>
-    <img src="https://skillicons.dev/icons?i=sass,styledcomponents,tailwindcss&perline="/>
-    <img src="https://skillicons.dev/icons?i=figma,ps&perline=7"/>  </p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express&perline="/><br/>
 
 <h2>🏆 Awards </h2> 
 
