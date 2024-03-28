@@ -9,7 +9,9 @@
 <h2>📚 Main Tech Stack </h2> 
   <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
     <img src="https://skillicons.dev/icons?i=js,ts&perline="/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,jest,cypress,emotion,styledcomponents,sass&perline="/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express&perline="/><br/>
+    <img src="https://skillicons.dev/icons?i=jest,cypress&perline="/>
+    <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/>
 
 <h2>🏆 Awards </h2> 
 
@@ -26,6 +28,7 @@
 | 🏆 **대상(1위)** |  2023.11.19 | 2023 한림대x강원대 연합 해커톤, <br/>  감자톤 | [지구의 심장박동에 크레딧을 부여하여,<br/> 환경에 공헌하다🪙](https://github.com/2023-LIKEPOTATO-HACKATON/Frontend-Repo) |
 | 🥉 은상(3위) | 2023.11.21 | 2023 한림대학교 정보과학대학 학술제 | [제대로 기록하는 내 친구를 위한 현명한 소비, <br/> Amica! 🐶](https://github.com/Likelion-MainHackaton-2team/Amica_Frontend) |
 | 🏆 **대상<br/>(1위, 총장상)** | 2023.12.08 | 2023-2 한림대학교 SW캡스톤디자인 <br/>  경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
+| 🏆 **최우수상<br/>(2위, 구름대표상)** | 2024.03.24 | 2024 kakao x Goorm <br/> 구름톤 유니브 벚꽃톤| [20대 백신 접종률 향상을 위한 서비스 ,<br/> 백곰 🐻‍❄️](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_4_FE) |
 </div>
 </details>
 <div align="center">
