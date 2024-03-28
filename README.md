@@ -9,7 +9,7 @@
 <h2>📚 Main Tech Stack </h2> 
   <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
     <img src="https://skillicons.dev/icons?i=js,ts&perline="/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express&perline="/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,jest,cypress,emotion,styledcomponents,sass&perline="/><br/>
 
 <h2>🏆 Awards </h2> 
 
