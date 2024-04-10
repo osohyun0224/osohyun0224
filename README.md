@@ -1,22 +1,45 @@
-<div align="center">
-	<h2>🖐🏻 About Me </h2> 
-
+<div align="left">
+<h2>🖐🏻 About Me </h2>
+	
+> My Portfoilo & Tech Blog <br/>
+	
 [![Notion Badge](https://img.shields.io/badge/Notion-My%20Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
 [![Velog Badge](https://img.shields.io/badge/Velog-@osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_%20-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
 [![Melon Badge](https://img.shields.io/badge/Melon-Study%20with%20Me-Brightgreen?style=flat-square&logo=applemusic)](http://bit.ly/study-with-deuni)
 <br/>
 <h2>📚 Main Tech Stack </h2> 
+
+```
+저는 웹 프론트엔드 개발을 위주로 공부하고 있으며, 특히 프론트엔드에서의 테스트와 인프라에도 관심이 많은 개발자 입니다 ;)
+I am mainly studying web front-end development.
+And especially interested in front-end testing and DevOps.
+```
+
+> Language <br/>
+
   <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
     <img src="https://skillicons.dev/icons?i=js,ts&perline="/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express&perline="/><br/>
+
+> Dev Libraries & Frameworks (FE, BE)
+  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,graphql&perline="/><br/>
+
+> Frontend Testing Tools (UI, Unit, Integration, E2E)
+  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
+    <img src="https://github.com/tandpfun/skill-icons/assets/53892427/15bacea2-95ca-49b6-99f3-e1593db7d928" width="49">
     <img src="https://skillicons.dev/icons?i=jest,cypress&perline="/>
+    <img src="https://github.com/tandpfun/skill-icons/assets/53892427/716dc655-f951-4a23-982d-5388e52ad7af" width="49">
+
+> Infra & DevOps 
+  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
+    <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,docker&perline="/>
+
+> CSS-in-JS & Dev for Styles
+  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
     <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/>
 
 <h2>🏆 Awards </h2> 
-
-<details>
-<summary>토글을 눌러보세요 :)</summary>
 	
 | Award 	| Date                         	     | Contest                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
@@ -30,8 +53,7 @@
 | 🏆 **대상<br/>(1위, 총장상)** | 2023.12.08 | 2023-2 한림대학교 SW캡스톤디자인 <br/>  경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 | 🏆 **최우수상<br/>(2위, 구름대표상)** | 2024.03.24 | 2024 kakao x Goorm <br/> 구름톤 유니브 벚꽃톤| [20대 백신 접종률 향상을 위한 서비스 ,<br/> 백곰 🐻‍❄️](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_4_FE) |
 | 🏆 **이달의 NClouder** | 2024.04.09 | 2024 3월 이달의 Nclouder| [네이버클라우드의 기술 콘텐츠 리워드 프로그램 <br/>  [이달의 Nclouder🏆] 3월 주인공을 소개합니다!](https://blog.naver.com/n_cloudplatform/223410615316) |
-</div>
-</details>
-<div align="center">
+<br/>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
 </div>
