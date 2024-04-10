@@ -29,7 +29,7 @@
 | 🥉 은상(3위) | 2023.11.21 | 2023 한림대학교 정보과학대학 학술제 | [제대로 기록하는 내 친구를 위한 현명한 소비, <br/> Amica! 🐶](https://github.com/Likelion-MainHackaton-2team/Amica_Frontend) |
 | 🏆 **대상<br/>(1위, 총장상)** | 2023.12.08 | 2023-2 한림대학교 SW캡스톤디자인 <br/>  경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 | 🏆 **최우수상<br/>(2위, 구름대표상)** | 2024.03.24 | 2024 kakao x Goorm <br/> 구름톤 유니브 벚꽃톤| [20대 백신 접종률 향상을 위한 서비스 ,<br/> 백곰 🐻‍❄️](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_4_FE) |
-| 🏆 **이달의 NClouder** | 2024.04.09 | 2024 3월 이달의 Nclouder🏆| [네이버클라우드의 기술 콘텐츠 리워드 프로그램 [이달의 Nclouder🏆] 3월 주인공을 소개합니다!](https://blog.naver.com/n_cloudplatform/223410615316) |
+| 🏆 **이달의 NClouder** | 2024.04.09 | 2024 3월 이달의 Nclouder| [네이버클라우드의 기술 콘텐츠 리워드 프로그램 [이달의 Nclouder🏆] <br/> 3월 주인공을 소개합니다!](https://blog.naver.com/n_cloudplatform/223410615316) |
 </div>
 </details>
 <div align="center">
