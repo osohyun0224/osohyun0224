@@ -11,9 +11,7 @@
 <h2>📚 Main Tech Stack </h2> 
 
 ```
-저는 웹 프론트엔드 개발을 위주로 공부하고 있으며, 특히 프론트엔드에서의 테스트와 인프라에도 관심이 많은 개발자 입니다 ;)
-I am mainly studying web front-end development.
-And especially interested in front-end testing and DevOps.
+#Frontend #Nextjs #React #Testing #DevOps #Infra
 ```
 
 > Language <br/>
