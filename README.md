@@ -13,32 +13,19 @@
 ```
 #Frontend #Nextjs #React #Testing #DevOps #Infra
 ```
+| Language 	|Dev Libraries & <br/>   Frameworks (FE, BE)      | CSS-in-JS &  <br/>  Dev for Styles		|  Frontend Testing Tools <br/> (UI, Unit, Integration, E2E) | Infra & DevOps |
+|-------------|---------------------------------   |-----------------------	| :----------------------:|----------------------|
+|  <img src="https://skillicons.dev/icons?i=js,ts&perline="/> |   <img src="https://skillicons.dev/icons?i=react,nextjs,vue&perline="/><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline="/> |      <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/> | <img src="https://skillicons.dev/icons?i=jest,cypress&perline="/> <br/> <img src="https://github.com/tandpfun/skill-icons/assets/53892427/15bacea2-95ca-49b6-99f3-e1593db7d928" width="49"> <img src="https://github.com/tandpfun/skill-icons/assets/53892427/716dc655-f951-4a23-982d-5388e52ad7af" width="49">|    <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,docker&perline="/> |
 
-> Language <br/>
 
-  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" >
-    <img src="https://skillicons.dev/icons?i=js,ts&perline="/>
-
-> Dev Libraries & Frameworks (FE, BE)
-  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,graphql&perline="/><br/>
-
-> Frontend Testing Tools (UI, Unit, Integration, E2E)
-  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
-    <img src="https://github.com/tandpfun/skill-icons/assets/53892427/15bacea2-95ca-49b6-99f3-e1593db7d928" width="49">
-    <img src="https://skillicons.dev/icons?i=jest,cypress&perline="/>
-    <img src="https://github.com/tandpfun/skill-icons/assets/53892427/716dc655-f951-4a23-982d-5388e52ad7af" width="49">
-
-> Infra & DevOps 
-  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
-    <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,docker&perline="/>
-
-> CSS-in-JS & Dev for Styles
-  <p herf="https://skillicons.dev" style="display: inline-block; width="49%" > 
-    <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/>
 
 <h2>🏆 Awards </h2> 
-	
+
+<details>
+  <summary>이 토글을 열어 확인해보세요 :)</summary>
+
+
+
 | Award 	| Date                         	     | Contest                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
 | 🥇 켈러상(1위) | 2023.06.20 | 2023 한림대학교 <br/> 우수 교생실습 경진대회 | [2023 정보컴퓨터 교생실습 수업 복습장 웹앱](https://github.com/osohyun0224/React_Firebase_StudyNote_withMinRak) |
@@ -51,6 +38,8 @@
 | 🏆 **대상<br/>(1위, 총장상)** | 2023.12.08 | 2023-2 한림대학교 SW캡스톤디자인 <br/>  경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 | 🏆 **최우수상<br/>(2위, 구름대표상)** | 2024.03.24 | 2024 kakao x Goorm <br/> 구름톤 유니브 벚꽃톤| [20대 백신 접종률 향상을 위한 서비스 ,<br/> 백곰 🐻‍❄️](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_4_FE) |
 | 🏆 **이달의 NClouder** | 2024.04.09 | 2024 3월 이달의 Nclouder| [네이버클라우드의 기술 콘텐츠 리워드 프로그램 <br/>  [이달의 Nclouder🏆] 3월 주인공을 소개합니다!](https://blog.naver.com/n_cloudplatform/223410615316) |
+
+</details>
 <br/>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
