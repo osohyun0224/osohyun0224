@@ -11,9 +11,9 @@
 ```
 #Frontend #Nextjs #React #Testing #DevOps #Infra
 ```
-| Language 	|Dev Libraries & <br/>   Frameworks (FE, BE)      | CSS-in-JS &  <br/>  Dev for Styles		|  Frontend Testing Tools <br/> (UI, Unit, Integration, E2E) | Infra & DevOps |
+| Language 	|Dev Libraries & <br/>   Frameworks (FE, BE)      | CSS-in-JS &  <br/>  Dev for Styles		|  Frontend Testing Tools <br/> (UI ~ E2E) | Infra & DevOps |
 |-------------|---------------------------------   |-----------------------	| :----------------------:|----------------------|
-|  <img src="https://skillicons.dev/icons?i=js,ts&perline="/> |   <img src="https://skillicons.dev/icons?i=react,nextjs,vue&perline="/><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline="/> |      <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/> | <img src="https://skillicons.dev/icons?i=jest,cypress&perline="/> <br/> <img src="https://github.com/tandpfun/skill-icons/assets/53892427/15bacea2-95ca-49b6-99f3-e1593db7d928" width="49"> <img src="https://github.com/tandpfun/skill-icons/assets/53892427/716dc655-f951-4a23-982d-5388e52ad7af" width="49">|    <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,docker&perline="/> |
+|  <img src="https://skillicons.dev/icons?i=js,ts&perline="/> |   <img src="https://skillicons.dev/icons?i=react,nextjs,vue&perline="/><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline="/> |      <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress&titles=true"/> <br/> <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,storybook&titles=true"/>  |    <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,docker&perline="/> |
 
 
 
