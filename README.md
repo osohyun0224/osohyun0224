@@ -8,13 +8,18 @@
 <br/>
 <h2>📚 Main Tech Stack </h2> 
 
+
 ```
 #Frontend #Nextjs #React #Testing #DevOps #Infra
 ```
-| Language 	|Dev Libraries & <br/>   Frameworks (FE, BE)      | CSS-in-JS &  <br/>  Dev for Styles		|  Frontend Testing Tools <br/> (UI ~ E2E) | Infra & DevOps |
-|-------------|---------------------------------   |-----------------------	| :----------------------:|----------------------|
-|  <img src="https://skillicons.dev/icons?i=js,ts&perline="/> |   <img src="https://skillicons.dev/icons?i=react,nextjs,vue&perline="/><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline="/> |      <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,sass&perline="/><br/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress&titles=true"/> <br/> <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,storybook&titles=true"/>  |    <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,docker&perline="/> |
 
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,emotion,styledcomponents,sass&perline="/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express,githubactions,kubernetes,docker&titles=true"/>
+
+<h2> 🤝 Open-Source Contribute. </h2> 
+
+<b> 🎭 Microsoft/Playwright</b><br/>
+[feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
 
 
 <h2>🏆 Awards </h2> 
