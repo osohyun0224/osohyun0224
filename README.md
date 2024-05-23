@@ -16,10 +16,12 @@
  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,emotion,styledcomponents,sass&perline="/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express,githubactions,kubernetes,docker&titles=true"/>
 
-<h2> 🤝 Open-Source Contribute. </h2> 
+<h2> 🤝 Open Source Contributions </h2> 
 
-<b> 🎭 Microsoft/Playwright</b><br/>
-[feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
+- [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
+  - [Merged PR) feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
+  - Adds the functionality to include direct `URLs` within annotations in Playwright tests.
+  - Enabling the URLs to appear as hyperlinks in test reports for easy navigation to related resources or issue trackers.
 
 
 <h2>🏆 Awards </h2> 
