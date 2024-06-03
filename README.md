@@ -10,7 +10,7 @@
 
 
 ```
-#Frontend #Nextjs #React #Testing #DevOps #Infra
+#Frontend #Nextjs #React #Testing
 ```
 
  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,emotion,styledcomponents,sass&perline="/><br/>
