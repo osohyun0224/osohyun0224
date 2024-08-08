@@ -43,6 +43,8 @@
 | 🏆 **대상<br/>(1위, 총장상)** | 2023.12.08 | 2023-2 한림대학교 SW캡스톤디자인 <br/>  경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 | 🏆 **최우수상<br/>(2위, 구름대표상)** | 2024.03.24 | 2024 kakao x Goorm <br/> 구름톤 유니브 벚꽃톤| [20대 백신 접종률 향상을 위한 서비스 ,<br/> 백곰 🐻‍❄️](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_4_FE) |
 | 🏆 **이달의 NClouder** | 2024.04.09 | 2024 3월 이달의 Nclouder| [네이버클라우드의 기술 콘텐츠 리워드 프로그램 <br/>  [이달의 Nclouder🏆] 3월 주인공을 소개합니다!](https://blog.naver.com/n_cloudplatform/223410615316) |
+| 🏆 **우수상 (3위)** | 2024.08.03 | 2024 kakao x Goorm <br/> 구름톤 유니브 in Jeju | [우리 아이 맞춤 백신 추천 서비스,<br/> 백곰 ver.2 🐻‍❄️](https://github.com/9oormthon-univ/2024_JEJU_VACGOM_FE) |
+| 🏆 **후원기업상(4위, 딥노이드)** | 2024.08.06 | 2024 SW중심대학 디지털 경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 
 </details>
 <br/>
