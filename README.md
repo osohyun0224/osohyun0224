@@ -18,11 +18,7 @@
 
 <h2> 🤝 Open Source Contributions </h2> 
 
-### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
-  - [Merged PR) feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
-  - Adds the functionality to include direct `URLs` within annotations in Playwright tests.
-  - Enabling the URLs to appear as hyperlinks in test reports for easy navigation to related resources or issue trackers.
-
+### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright/pull/30665)<br/>
 
 <h2>🏆 Awards </h2> 
 
