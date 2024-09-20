@@ -7,7 +7,7 @@
 ```
 
  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,emotion,styledcomponents,sass&perline="/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express&titles=true"/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express,vite&titles=true"/>
 
 <h2> 🤝 Open Source Contributions </h2> 
 
