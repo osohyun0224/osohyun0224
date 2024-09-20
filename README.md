@@ -1,29 +1,29 @@
 <div align="left">
-<h2>🖐🏻 About Me </h2>
-  
-[![Notion Badge](https://img.shields.io/badge/Notion-My%20Portfolio-white?style=flat-square&logo=Notion)](https://osohyun.notion.site/osohyun/886b9da22bd8417db901a22578332116)
-[![Velog Badge](https://img.shields.io/badge/Velog-@osohyun0224-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@osohyun0224/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@iamsounii_%20-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/iamsounii_)
-[![Melon Badge](https://img.shields.io/badge/Melon-Study%20with%20Deuni-Brightgreen?style=flat-square&logo=applemusic)](https://kko.to/AIxwBzoUaX)
-<br/>
 <h2>📚 Main Tech Stack </h2> 
 
 
 ```
-#Frontend #Nextjs #React #DesignSystem #Testing
+#Frontend #Nextjs #React #DesignSystem #Testing #DX
 ```
 
- <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,emotion,styledcomponents,sass&perline="/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express,githubactions,kubernetes,docker&titles=true"/>
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,emotion,styledcomponents,sass&perline="/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express&titles=true"/>
 
 <h2> 🤝 Open Source Contributions </h2> 
 
-### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright/pull/30665)<br/>
+### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
+
+#### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/microsoft/playwright/pull/32504)
+- Added custom test step location functionality to Playwright, improving test file execution location information in test reports.
+- Improved the reporting mechanism when generating test results by adding an optional parameter for a location object to the test.step method, allowing it to include test file location information.
+
+#### [feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
+- Improved function so that URLs, which had to be written as strings in existing Playwright test reports, can be added directly as hyperlinks.
 
 <h2>🏆 Awards </h2> 
 
 <details>
-  <summary>이 토글을 열어 확인해보세요 :)</summary>
+  <summary>Open this Toogle :)</summary>
 
 | Award 	| Date                         	     | Contest                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
@@ -41,6 +41,7 @@
 | 🥇 켈러상(1위) | 2023.06.20 | 2023 한림대학교 <br/> 우수 교생실습 경진대회 | [2023 정보컴퓨터 교생실습 수업 복습장 웹앱](https://github.com/osohyun0224/React_Firebase_StudyNote_withMinRak) |
 
 </details>
+
 <br/>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
