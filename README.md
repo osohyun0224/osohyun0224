@@ -16,6 +16,8 @@
 #### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/microsoft/playwright/pull/32504)
 - Added custom test step location functionality to Playwright, improving test file execution location information in test reports.
 - Improved the reporting mechanism when generating test results by adding an optional parameter for a location object to the test.step method, allowing it to include test file location information.
+- Release 🔖 [v1.48.0](https://github.com/microsoft/playwright/releases/tag/v1.48.0)
+- Docs 📄 [#test-step-option-location](https://playwright.dev/docs/api/class-test#test-step-option-location)
 
 #### [feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
 - Improved function so that URLs, which had to be written as strings in existing Playwright test reports, can be added directly as hyperlinks.
