@@ -1,6 +1,9 @@
 <div align="left">
 <h2>📚 Main Tech Stack </h2> 
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
 ```
 #Frontend #Nextjs #React #DesignSystem #Testing #DX
