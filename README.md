@@ -16,7 +16,7 @@
 
 ### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
 
-#### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/microsoft/playwright/pull/32504)
+#### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/stars/osohyun0224/lists/%ED%95%AD%ED%95%B4-%ED%94%8C%EB%9F%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-3%EA%B8%B0)
 - Added custom test step location functionality to Playwright, improving test file execution location information in test reports.
 - Improved the reporting mechanism when generating test results by adding an optional parameter for a location object to the test.step method, allowing it to include test file location information.
 - Release 🔖 [v1.48.0](https://github.com/microsoft/playwright/releases/tag/v1.48.0)
@@ -32,6 +32,7 @@
 
 | Award 	| Date                         	     | Contest                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
+| 🏆 **최고상(1등 우수 수료)** | 2024.11.30 | 항해 플러스 프론트엔드 3기 | [항해 플러스 프론트엔드 3기 과제 🤓](https://github.com/sync-without-async/Rehab-FrontEnd) |
 | 🏆 **후원기업상(4위, 딥노이드)** | 2024.08.06 | 2024 SW중심대학 디지털 경진대회 | [비대면 재활치료를 돕는 웹서비스,<br/>  Re:Hab 👨🏻‍⚕️](https://github.com/sync-without-async/Rehab-FrontEnd) |
 | 🏆 **우수상 (3위)** | 2024.08.03 | 2024 kakao x Goorm <br/> 구름톤 유니브 in Jeju | [우리 아이 맞춤 백신 추천 서비스,<br/> 백곰 ver.2 🐻‍❄️](https://github.com/9oormthon-univ/2024_JEJU_VACGOM_FE) |
 | 🏆 **이달의 NClouder** | 2024.04.09 | 2024 3월 이달의 Nclouder| [네이버클라우드의 기술 콘텐츠 리워드 프로그램 <br/>  [이달의 Nclouder🏆] 3월 주인공을 소개합니다!](https://blog.naver.com/n_cloudplatform/223410615316) |
