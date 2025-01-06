@@ -16,7 +16,7 @@
 
 ### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
 
-#### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/stars/osohyun0224/lists/%ED%95%AD%ED%95%B4-%ED%94%8C%EB%9F%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-3%EA%B8%B0)
+#### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/microsoft/playwright/pull/32504)
 - Added custom test step location functionality to Playwright, improving test file execution location information in test reports.
 - Improved the reporting mechanism when generating test results by adding an optional parameter for a location object to the test.step method, allowing it to include test file location information.
 - Release 🔖 [v1.48.0](https://github.com/microsoft/playwright/releases/tag/v1.48.0)
