@@ -9,8 +9,7 @@
 #Frontend #Nextjs #React #DesignSystem #Testing #DX
 ```
 
- <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,emotion,styledcomponents,sass&perline="/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,jest,storybook,nodejs,express,vite&titles=true"/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,playwright,cypress,jest,storybook&titles=true"/>
 
 <h2> 🤝 Open Source Contributions </h2> 
 
@@ -48,7 +47,3 @@
 
 </details>
 
-<br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
-</div>
