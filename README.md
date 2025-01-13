@@ -11,6 +11,12 @@
 
  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,playwright,cypress,jest,storybook&titles=true"/>
 
+<div align="left">
+<h2> 📝 Tech Blog </h2> 
+
+  <a href="mailto:https://velog.io/@osohyun0224/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@osohyun0224/posts"/></a> <a href="mailto:https://medium.com/@sovely0616"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sovely0616"/></a>
+
+
 <h2> 🤝 Open Source Contributions </h2> 
 
 ### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
