@@ -1,20 +1,18 @@
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
+ <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a> 
 
 <div align="left">
-<h2>📚 Main Tech Stack </h2> 
+<br/>
 
 ```
-#Frontend #Nextjs #React #DesignSystem #Testing #DX
+#Frontend #DesignSystem #Testing
 ```
-
- <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,playwright,cypress,jest,storybook&titles=true"/>
-
 <div align="left">
 <h2> 📝 Tech Blog </h2> 
 
 <a href="https://velog.io/@osohyun0224/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@osohyun0224/posts"/></a> <a href="https://medium.com/@osohyun0224"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@osohyun0224"/></a>
+
 
 
 <h2> 🤝 Open Source Contributions </h2> 
