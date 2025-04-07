@@ -11,13 +11,9 @@
 <div align="left">
 <h2> 📝 Tech Blog </h2> 
 
-<div align="center">
- <img src="https://velog-github-badge.vercel.app/badge/osohyun0224?post=5"/>
- <br/> <br/>
 
 <a href="https://velog.io/@osohyun0224/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@osohyun0224/posts"/></a> <a href="https://medium.com/@osohyun0224"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@osohyun0224"/></a>
 
-</div>
 
 <h2> 🤝 Open Source Contributions </h2> 
 
