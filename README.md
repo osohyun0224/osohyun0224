@@ -1,6 +1,13 @@
- <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a> 
+<p align="left">
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
+  </a>
+  <a href="https://user-badge.committers.top/south_korea/osohyun0224">
+    <img src="https://user-badge.committers.top/south_korea/osohyun0224.svg" />
+  </a>
+</p>
+
+[![Velog's GitHub stats](https://velog-github-readme-custom.vercel.app/badge/osohyun0224/custom?post1=https://velog.io/@osohyun0224/한-스타트업의-사내-디자인-시스템-성장기&post2=https://velog.io/@osohyun0224/더-큰-바다-앞으로-나아갈-수-있게-된-항해-플러스-프론트-3기-최종-회고&post3=https://velog.io/@osohyun0224/교내-최초-축제-웹사이트-개발-리드-후기&post4=https://velog.io/@osohyun0224/웹-개발-인턴을-마치며-feat.-2024-상반기-개발-회고&post5=https://velog.io/@osohyun0224/우리가-1년-간-이뤄낸-개발자로서의-최고의-성과)](https://velog.io/@osohyun0224)
 
 <div align="left">
 <br/>
