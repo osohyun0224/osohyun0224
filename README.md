@@ -18,9 +18,6 @@
 
 <a href="https://velog.io/@osohyun0224/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@osohyun0224/posts"/></a> <a href="https://medium.com/@osohyun0224"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@osohyun0224"/></a>
 
-[![Velog's GitHub stats](https://velog-github-readme-custom.vercel.app/badge/osohyun0224/custom?theme=dark&post1=https://velog.io/@osohyun0224/한-스타트업의-사내-디자인-시스템-성장기&post2=https://velog.io/@osohyun0224/더-큰-바다-앞으로-나아갈-수-있게-된-항해-플러스-프론트-3기-최종-회고&post3=https://velog.io/@osohyun0224/교내-최초-축제-웹사이트-개발-리드-후기&post4=https://velog.io/@osohyun0224/웹-개발-인턴을-마치며-feat.-2024-상반기-개발-회고&post5=https://velog.io/@osohyun0224/우리가-1년-간-이뤄낸-개발자로서의-최고의-성과)](https://velog.io/@osohyun0224)
-
-
 <h2> 🤝 Open Source Contributions </h2> 
 
 ### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
