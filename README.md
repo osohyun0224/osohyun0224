@@ -1,11 +1,8 @@
-<p align="left">
+
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
   </a>
-  <a href="https://user-badge.committers.top/south_korea/osohyun0224">
-    <img src="https://user-badge.committers.top/south_korea/osohyun0224.svg" />
-  </a>
-</p>
+
 
 <div align="left">
 <br/>
