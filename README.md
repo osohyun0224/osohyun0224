@@ -7,9 +7,6 @@
 <div align="left">
 <br/>
 
-```
-#Frontend #DesignSystem #Testing
-```
 <div align="left">
 <h2> 📝 Tech Blog </h2> 
 
