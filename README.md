@@ -1,9 +1,3 @@
-
-  <a href="https://hhpluscertificateofcompletion.oopy.io/">
-    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
-  </a>
-
-
 <div align="left">
 <br/>
 
@@ -47,4 +41,8 @@
 | 🥇 켈러상(1위) | 2023.06.20 | 2023 한림대학교 <br/> 우수 교생실습 경진대회 | [2023 정보컴퓨터 교생실습 수업 복습장 웹앱](https://github.com/osohyun0224/React_Firebase_StudyNote_withMinRak) |
 
 </details>
+
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
+  </a>
 
