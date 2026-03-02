@@ -13,8 +13,7 @@
 - Release 🔖 [v1.48.0](https://github.com/microsoft/playwright/releases/tag/v1.48.0)
 - Docs 📄 [#test-step-option-location](https://playwright.dev/docs/api/class-test#test-step-option-location)
 
-#### [feat(test): add URL field to annotations for hyperlink display](https://github.com/microsoft/playwright/pull/30665)
-- Improved function so that URLs, which had to be written as strings in existing Playwright test reports, can be added directly as hyperlinks.
+..etc
 
 <h2>🏆 Awards </h2> 
 
