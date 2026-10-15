@@ -3,17 +3,6 @@
 
 <a href="https://velog.io/@osohyun0224/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@osohyun0224/posts"/></a> <a href="https://medium.com/@osohyun0224"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@osohyun0224"/></a>
 
-<h2> 🤝 Open Source Contributions </h2> 
-
-### [Microsoft/Playwright 🎭](https://github.com/microsoft/playwright)<br/>
-
-#### [feat(test runner): allow to pass arbitrary location to test.step](https://github.com/microsoft/playwright/pull/32504)
-- Added custom test step location functionality to Playwright, improving test file execution location information in test reports.
-- Improved the reporting mechanism when generating test results by adding an optional parameter for a location object to the test.step method, allowing it to include test file location information.
-- Release 🔖 [v1.48.0](https://github.com/microsoft/playwright/releases/tag/v1.48.0)
-- Docs 📄 [#test-step-option-location](https://playwright.dev/docs/api/class-test#test-step-option-location)
-
-..etc
 
 <h2>🏆 Awards </h2> 
 
